@@ -8,3 +8,4 @@ Pantalla de bienvenida para Android (Java) con tema de mar y velero.
 
 ## Cómo abrirlo
 Abre la carpeta en Android Studio (*File > Open*), espera a que Gradle sincronice y ejecuta en un emulador.
+Creacion hecha por Michaell Penagos
