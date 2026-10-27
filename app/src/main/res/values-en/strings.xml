@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My sea world</string>
+    <string name="titulo">Welcome aboard</string>
+    <string name="frase">The sea is waiting for you</string>
+    <string name="zarpar">Set sail</string>
+    <string name="mensaje_zarpar">Bon voyage!</string>
+</resources>

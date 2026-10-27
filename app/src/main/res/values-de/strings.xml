@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine Meereswelt</string>
+    <string name="titulo">Willkommen an Bord</string>
+    <string name="frase">Das Meer wartet auf dich</string>
+    <string name="zarpar">Ablegen</string>
+    <string name="mensaje_zarpar">Gute Reise!</string>
+</resources>

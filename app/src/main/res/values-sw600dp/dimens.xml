@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tam_titulo">44sp</dimen>
+    <dimen name="tam_frase">24sp</dimen>
+    <dimen name="tam_boton">22sp</dimen>
+    <dimen name="ancho_boton">280dp</dimen>
+    <dimen name="alto_boton">64dp</dimen>
+    <dimen name="tam_barco">180dp</dimen>
+    <dimen name="margen">56dp</dimen>
+</resources>

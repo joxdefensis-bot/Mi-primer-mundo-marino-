@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Mástil -->
+    <path android:fillColor="#5D4037" android:pathData="M49,10 H52 V72 H49 Z" />
+    <!-- Vela grande -->
+    <path android:fillColor="#FFFFFF" android:pathData="M47,14 L47,66 L18,66 Z" />
+    <!-- Vela pequeña -->
+    <path android:fillColor="#FFF4D6" android:pathData="M54,24 L54,66 L80,66 Z" />
+    <!-- Casco -->
+    <path android:fillColor="#FF6B6B" android:pathData="M12,70 H88 L78,86 H22 Z" />
+    <!-- Bandera -->
+    <path android:fillColor="#FFD54F" android:pathData="M52,10 L64,14 L52,18 Z" />
+</vector>
